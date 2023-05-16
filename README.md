@@ -1,1 +1,13 @@
 # pokedex
+
+Le lien vers la video Tuto :
+https://www.youtube.com/watch?v=oCINeytlyRA
+
+Les liens vers le code et les corrections :
+- Correction du code à télécharger : https://www.alexandria-library.co/res...
+- Code à copier-coller : https://www.alexandria-library.co/res...
+- Lien vers l'application de démonstration : https://www.alexandria-library.co/res...
+
+Pour aller plus loin :
+- Documentation officielle de React (FR) : https://fr.reactjs.org/docs/getting-s... 
+- Documentation officielle de TypeScript : https://www.typescriptlang.org/docs/
